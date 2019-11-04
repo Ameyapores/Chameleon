@@ -1,0 +1,65 @@
+Base path: '/home/ameya/Unity/Hub/Editor/2019.3.0b6/Editor/Data', plugins path '/home/ameya/Unity/Hub/Editor/2019.3.0b6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=12270 outsize=3629 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12270 outsize=6685 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=4482 outsize=4909 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4482 outsize=7259 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=6787 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=3117 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=3169 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=4281 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=4738 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at Tensor.cginc(128): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=18 insize=27408 outsize=8982 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=6736 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=5789 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=5626 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=64076 outsize=16668 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=1937 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=2133 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3028 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3152 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3053 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=2999 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=3101 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=3187 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=2828 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5121 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5401 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5257 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=6260 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=23621 outsize=16438 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=23621 outsize=33262 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=11846 outsize=13320 kw=SHADOWS_SPLIT_SPHERES pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
