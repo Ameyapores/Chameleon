@@ -29,7 +29,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 5522271495543215574}
-  - {fileID: 5159082851446267793}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -45,11 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fad34e878df684aaeb8dd4bb96261454, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  brain: {fileID: 11400000, guid: 103ee19d8927bf1ab8014706868ef0f6, type: 2}
   agentParameters:
-    agentCameras:
-    - {fileID: 6233110271545783489}
-    agentRenderTextures: []
     maxStep: 1000
     resetOnDone: 1
     onDemandDecision: 0
@@ -85,8 +80,8 @@ Transform:
   m_LocalPosition: {x: 6, y: 6, z: -2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 5610003497860225692}
-  m_RootOrder: 1
+  m_Father: {fileID: 5522271495543215574}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 45, y: -60, z: 0}
 --- !u!20 &6233110271545783489
 Camera:

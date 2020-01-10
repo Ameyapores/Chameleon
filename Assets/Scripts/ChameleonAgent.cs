@@ -19,7 +19,6 @@ public class ChameleonAgent : Agent
         chameleonArea.ResetArea();
         SetRandomColor();
     }
-
     public override void AgentAction(float[] vectorAction, string textAction)
     {
         // Set actions to -1, 0, or 1 (decrease, hold, increase)
